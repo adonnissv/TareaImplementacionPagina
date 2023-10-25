@@ -1,0 +1,49 @@
+/* Estilo CSS para etiquetas */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #083765;
+}
+
+h2 {
+  color: #ffca00;
+}
+
+p {
+  color: #ffffff;
+}
+
+a {
+  color: #ff6600;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #8a0505;
+}
+
+/* Estilo para el pie de página */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
